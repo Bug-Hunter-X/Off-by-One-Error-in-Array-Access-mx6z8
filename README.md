@@ -1,0 +1,2 @@
+# Off-by-One Error in Array Access
+This repository demonstrates a common off-by-one error in Java that leads to an ArrayIndexOutOfBoundsException. The `bug.java` file contains the erroneous code, while `bugSolution.java` provides a corrected version. The error occurs due to an incorrect loop condition that causes the code to try accessing an element beyond the valid range of the array.
